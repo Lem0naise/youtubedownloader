@@ -22,6 +22,7 @@ searchbar = ImageTk.PhotoImage(load)
 search = Label(root, image=searchbar, bg = "SteelBlue4")
 search.image = searchbar
 
+print("urmum")
 
 #text
 
